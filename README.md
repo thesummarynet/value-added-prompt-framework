@@ -66,7 +66,7 @@ These numbers are based on initial testing I've done across multiple projects.
 ### Core Framework Files
 - `value_added_framework.py` - Primary framework implementation
 - `value_added_utils.py` - Time management and context injection utilities
-- `openai_utils_updated.py` - OpenAI API integration with structured outputs
+- `openai_utils.py` - OpenAI API integration with structured outputs
 - `ui_streamlit.py` - Professional web interface demonstrating capabilities
 - `main.py` - Application launcher and environment management
 - `chat_utils.py` - Session persistence and conversation management
