@@ -59,7 +59,7 @@ Through systematic testing, this framework achieves:
 - **88% increase** in overall therapeutic response quality
 - **96% faster setup** compared to building custom context management from scratch
 
-These metrics are based on actual implementation testing, not theoretical projections.
+These numbers are based on initial testing I've done across multiple projects. 
 
 ## Technical Components
 
